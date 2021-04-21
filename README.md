@@ -1,5 +1,3 @@
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
-
 <p align="left">
   🦄 Code: <strong>HTML, CSS, JavaScript, React.</strong>
 </p>
